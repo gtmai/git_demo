@@ -1,2 +1,2 @@
-asd
+as 0
 second line
