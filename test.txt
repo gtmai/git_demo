@@ -3,3 +3,5 @@ second line
 
 new line for revert commit
 
+
+and one more test for git revert
