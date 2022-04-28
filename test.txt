@@ -1,4 +1,4 @@
-as 0
+asd
 second line
 
 new line for revert commit
